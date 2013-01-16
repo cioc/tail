@@ -1,4 +1,4 @@
 tail
 ====
 
-More Info: http://wordpress.org/extend/plugins/prism-detached/installation/
+More Info: http://blog.charlescary.com/?p=4
